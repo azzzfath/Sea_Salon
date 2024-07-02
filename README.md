@@ -1,4 +1,4 @@
-# Laravel - README Template
+# Laravel - README
 
 ###### tags: `PHP` `Laravel`
 
